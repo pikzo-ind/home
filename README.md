@@ -1,8 +1,8 @@
-# ShopZone E-Commerce Application
+# Pikzo E-Commerce Application
 
 ## Overview
 
-ShopZone is a Progressive Web Application (PWA) e-commerce platform built with vanilla JavaScript, HTML, and CSS. The application provides a complete shopping experience including product browsing, cart management, user authentication, and order processing. It uses Vite as a build tool and development server with hot module reloading, and implements PWA capabilities for offline functionality and native app-like experience.
+Pikzo is a Progressive Web Application (PWA) e-commerce platform built with vanilla JavaScript, HTML, and CSS. The application provides a complete shopping experience including product browsing, cart management, user authentication, and order processing. It uses Vite as a build tool and development server with hot module reloading, and implements PWA capabilities for offline functionality and native app-like experience.
 
 ## User Preferences
 
